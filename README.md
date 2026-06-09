@@ -40,13 +40,24 @@ Many smart home systems prioritize convenience over security, making them vulner
 - Power outage handling
 
 ## System Architecture
+<details>
+<summary>📐 Architecture</summary>
 
-![Architecture](docs/architecture.png)
+<br>
 
+<img src="docs/architecture.png" alt="Architecture" width="800">
+
+</details>
 
 ## System Layout
+<details>
+<summary>📐 Layout</summary>
 
-![Layout](docs/layout.png)
+<br>
+
+<img src="docs/layout.png" alt="Layout" width="800">
+
+</details>
 
 ## Technologies Used
 
