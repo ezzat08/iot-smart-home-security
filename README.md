@@ -41,7 +41,12 @@ Many smart home systems prioritize convenience over security, making them vulner
 
 ## System Architecture
 
-[Architecture Diagram]
+![Architecture](docs/architecture.png)
+
+
+## System Layout
+
+![Layout](docs/layout.png)
 
 ## Technologies Used
 
